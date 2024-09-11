@@ -1,0 +1,28 @@
+{
+    "pessoas": [
+        {
+            "nome": "Maria",
+            "idade": 25,
+            "habilidades": [
+                "Python",
+                "HTML"
+            ]
+        },
+        {
+            "nome": "José",
+            "idade": 30,
+            "habilidades": [
+                "Java",
+                "SQL"
+            ]
+        },
+        {
+            "nome": "Pedro",
+            "idade": 28,
+            "habilidades": [
+                "JavaScript",
+                "Docker"
+            ]
+        }
+    ]
+}
