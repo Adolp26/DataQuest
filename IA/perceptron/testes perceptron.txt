@@ -1,0 +1,63 @@
+#1. 
+AND na sequência
+ [1 , 1]
+ [0 , 1]
+ [1 , 0]
+ [0 , 0]
+
+epochs = 6.
+
+#2. 
+NAND na sequencia
+ [1 , 1]
+ [0 , 1]
+ [1 , 0]
+ [0 , 0]
+
+epochs = 5.
+
+#3. NAND na sequencia 
+
+[0 , 0]
+[0 , 1]
+[1 , 0]
+[1 , 1]
+
+epochs = 5. (epochs = 4 mostra uma regressão na proximidade. oq é curioso, uma vez que 5 iterações é necessária para obter o resultado desejado.)
+
+#4. XOR NA SEQUENCIA
+
+[0 , 0]
+[0 , 1]
+[1 , 0]
+[1 , 1]
+
+epochs = indefinido. 
+conclusão: seja por inabilidade do código ou do usuário, o script se mostrou inapto para treinar o perceptron para a lógica XOR E !XOR mesmo após 10.000 epochs.
+
+
+#5. AND na sequencia 
+    [0 , 0 , 0],
+    [0 , 0 , 1],
+    [0 , 1 , 0],
+    [0 , 1 , 1],
+    [1 , 0 , 0],
+    [1 , 0 , 1],
+    [1 , 1 , 0],
+    [1 , 1 , 1]
+
+epochs = 2 (surpreendente).
+
+
+#6. NAND na sequencia
+    [0 , 0 , 0],
+    [0 , 0 , 1],
+    [0 , 1 , 0],
+    [0 , 1 , 1],
+    [1 , 0 , 0],
+    [1 , 0 , 1],
+    [1 , 1 , 0],
+    [1 , 1 , 1]
+
+epochs = 6.
+

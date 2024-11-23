@@ -1,0 +1,5 @@
+pdfs dados pelo professor de machine learning em atividade avaliativa.
+planilha preenchida coletivamente por alunos.
+
+o algoritmo em python tem como objetivo calcular correlações entre as colunas dos países.
+
