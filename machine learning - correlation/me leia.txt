@@ -1,5 +1,10 @@
 pdfs dados pelo professor de machine learning em atividade avaliativa.
 planilha preenchida coletivamente por alunos.
 
-o algoritmo em python tem como objetivo calcular correlações entre as colunas dos países.
-
+o algoritmo em python tem como objetivo:
+-tratar a tabela de entrada para verificar se há linhas não completas
+-tratar a tabela para dados utilizaveis
+-produzir uma tabela com o input da função de análise
+-calcular correlações entre as colunas dos países
+-gerar um heatmap, uma gráfico da variância dos valores e um dendograma.
+-exportar o dendograma em pdf e svg.
